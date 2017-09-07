@@ -1,0 +1,40 @@
+body{height:4000px;}
+.container{
+    width: 1170px;
+    margin: auto;
+}
+
+.header .slider{background-color:#eee;
+    height:600px;
+}
+
+.header .navbar{
+    background-color:#252f31;
+    color:#fff;
+    overflow: hidden;
+}
+.header .navbar h2{float:right;}
+.header .navbar h2 span{color:#2ecc71;}
+.header .navbar ul{
+    list-style: none;
+    padding-right:0;
+    overflow:hidden;
+    float:left;
+    
+}
+.header .navbar ul li{
+    float:right;
+    padding:10px;
+}
+<!-- start tfeatures-->
+.features{overflow:hidden;}
+.features .feat{ float:right;
+    width:30%;
+    height:150px;
+    background-color:#ddd;
+    text-align: right;
+    padding:15px;
+    font-size: 18px;
+}
+<!-- end features-->
+<!-- test -->
